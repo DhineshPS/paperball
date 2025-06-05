@@ -1,3 +1,5 @@
+package com.zoho.paperball;
+
 import com.zoho.paperball.features.CrickStatsManager;
 
 public class Main {
